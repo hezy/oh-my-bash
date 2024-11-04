@@ -1,0 +1,3 @@
+[submodule "themes/night-dog"]
+	path = themes/night-dog
+	url = git@gitlab.com:hezy1a1/night-dog.git
